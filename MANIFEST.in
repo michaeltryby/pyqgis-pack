@@ -1,0 +1,10 @@
+#
+# Date Created: September 27, 2018
+# Author: Michael E. Tryby
+#         US EPA ORD/NRMRL
+#
+
+recursive-include PyQt5 *
+
+recursive-include qgis/_bin *
+recursive-include qgis/_prefix *
